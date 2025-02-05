@@ -1,0 +1,33 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+// Step 1: Define a class template
+template <typename T>
+class GameObject {
+private:
+    T attribute;
+
+public:
+    // Step 2: Implement a constructor to initialize the member variable
+
+    // Step 3: Implement functions to set and get the value of the member variable
+    
+};
+
+int main() {
+    // Step 4: Create instances of GameObject for different types of game objects
+    // and output results
+
+    // Character's health (integer)
+
+    // Weapon's damage (double)
+    
+    // Item's name (string)
+    
+    // Step 5: Test setting new attributes with different values
+
+    // Step 6: Print updated attributes
+  
+    return 0;
+}
